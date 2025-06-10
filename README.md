@@ -20,7 +20,7 @@ A sleek, responsive **currency conversion tool** built with **React.js, Vite**, 
 
 ## 📷 Screenshot
 
-![App Preview]()
+![App Preview](https://github.com/rj9884/currency-convertor-with-react/blob/main/src/assets/ui_demo.png)
 
 ## ⚙️ Installation
 
